@@ -1,0 +1,8 @@
+node_modules
+./app1/node_modules
+./app2/node_modules
+./content/node_modules
+./footer/node_modules
+./header/node_modules
+./search/node_modules
+./shell/node_modules
